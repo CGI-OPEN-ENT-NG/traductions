@@ -1,0 +1,20 @@
+{
+        "xiti.admin.header": "Xiti application settings", 
+        "xiti.id.active": "Auto-tagging activation", 
+        "xiti.id.collectivite": "Community ID", 
+        "xiti.id.etab": "School ID", 
+        "xiti.id.exploitant": "User ID", 
+        "xiti.id.plateforme": "Platform ID", 
+        "xiti.id.projet": "Project ID", 
+        "xiti.mass.capture": "Mass capture", 
+        "xiti.masscapture.code": "Department (075, 971, etc.)", 
+        "xiti.plateforme.parameters": "Platform parameters", 
+        "xiti.project.variables": "Project variables", 
+        "xiti.structure.name": "Structure name", 
+        "xiti.structure.parameters": "Structure parameters", 
+        "xiti.structures.update.all": "Update", 
+        "xiti.structures.update.fail": "The update could not be completed", 
+        "xiti.structures.update.succeed": "The update was completed", 
+        "xiti.title": "Xiti", 
+        "xiti.validate": "Confirm"
+}

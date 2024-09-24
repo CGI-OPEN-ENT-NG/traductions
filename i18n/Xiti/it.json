@@ -1,0 +1,20 @@
+{
+        "xiti.admin.header": "Impostazioni dell'applicazione Xiti", 
+        "xiti.id.active": "Attivazione marcatura", 
+        "xiti.id.collectivite": "ID community", 
+        "xiti.id.etab": "ID scuola", 
+        "xiti.id.exploitant": "ID operatore", 
+        "xiti.id.plateforme": "ID piattaforma", 
+        "xiti.id.projet": "ID progetto", 
+        "xiti.mass.capture": "Selezione in blocco", 
+        "xiti.masscapture.code": "Provincia (075, 971, etc.)", 
+        "xiti.plateforme.parameters": "Parametri piattaforma", 
+        "xiti.project.variables": "Variabili progetto", 
+        "xiti.structure.name": "Nome della struttura", 
+        "xiti.structure.parameters": "Parametri struttura", 
+        "xiti.structures.update.all": "Aggiornare", 
+        "xiti.structures.update.fail": "Non è stato possibile procedere con l'aggiornamento", 
+        "xiti.structures.update.succeed": "Aggiornamento riuscito", 
+        "xiti.title": "Xiti", 
+        "xiti.validate": "Conferma"
+}

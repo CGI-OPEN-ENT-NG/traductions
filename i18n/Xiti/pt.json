@@ -1,0 +1,20 @@
+{
+        "xiti.admin.header": "Parâmetros do aplicativo Xiti", 
+        "xiti.id.active": "Activação da marcação", 
+        "xiti.id.collectivite": "Login da coletividade", 
+        "xiti.id.etab": "Login do estabelecimento", 
+        "xiti.id.exploitant": "Identificação do operador", 
+        "xiti.id.plateforme": "Login da plataforma", 
+        "xiti.id.projet": "Login do projeto", 
+        "xiti.mass.capture": "Entrada em massa", 
+        "xiti.masscapture.code": "Departamento (075, 971, etc.)", 
+        "xiti.plateforme.parameters": "Variáveis da plataforma", 
+        "xiti.project.variables": "Variáveis de projeto", 
+        "xiti.structure.name": "Nome da estrutura", 
+        "xiti.structure.parameters": "Variáveis da estrutura", 
+        "xiti.structures.update.all": "Actualização", 
+        "xiti.structures.update.fail": "A actualização não pôde ser concluída", 
+        "xiti.structures.update.succeed": "A actualização foi concluída com sucesso", 
+        "xiti.title": "Xiti", 
+        "xiti.validate": "Confirmar"
+}

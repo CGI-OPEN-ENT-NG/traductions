@@ -1,0 +1,20 @@
+{
+        "xiti.admin.header": "Parámetros de la aplicación Xiti", 
+        "xiti.id.active": "Activación de marcado", 
+        "xiti.id.collectivite": "Identificación del colectivo", 
+        "xiti.id.etab": "Identificación de la escuela", 
+        "xiti.id.exploitant": "Identificación del usuario", 
+        "xiti.id.plateforme": "Identificación de la plataforma", 
+        "xiti.id.projet": "Identificación del proyecto", 
+        "xiti.mass.capture": "Entrada masiva", 
+        "xiti.masscapture.code": "Departamento (075, 971, etc.)", 
+        "xiti.plateforme.parameters": "Variables de plataforma", 
+        "xiti.project.variables": "Variables del proyecto", 
+        "xiti.structure.name": "Nombre de la estructura", 
+        "xiti.structure.parameters": "Variables de estructura", 
+        "xiti.structures.update.all": "Actualizar", 
+        "xiti.structures.update.fail": "No se ha podido realizar la actualización", 
+        "xiti.structures.update.succeed": "La actualización se ha efectuado correctamente", 
+        "xiti.title": "Xiti", 
+        "xiti.validate": "Validar"
+}

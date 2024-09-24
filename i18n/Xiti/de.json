@@ -1,0 +1,20 @@
+{
+        "xiti.admin.header": "Einstellungen der Anwendung Xiti", 
+        "xiti.id.active": "Aktivierung der Markierung", 
+        "xiti.id.collectivite": "ID der Gebietskörperschaft", 
+        "xiti.id.etab": "Einrichtungs-ID", 
+        "xiti.id.exploitant": "Identifikator des Betreibers", 
+        "xiti.id.plateforme": "Plattform-ID", 
+        "xiti.id.projet": "Projekt-ID", 
+        "xiti.mass.capture": "Massenerfassung", 
+        "xiti.masscapture.code": "Departement (075, 971, ...)", 
+        "xiti.plateforme.parameters": "Plattformparameter", 
+        "xiti.project.variables": "Projektvariablen", 
+        "xiti.structure.name": "Name der Struktur", 
+        "xiti.structure.parameters": "Strukturparameter", 
+        "xiti.structures.update.all": "Aktualisieren", 
+        "xiti.structures.update.fail": "Die Aktualisierung konnte nicht durchgeführt werden", 
+        "xiti.structures.update.succeed": "Die Aktualisierung wurde erfolgreich durchgeführt", 
+        "xiti.title": "Xiti", 
+        "xiti.validate": "Bestätigen"
+}
