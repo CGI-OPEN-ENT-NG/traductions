@@ -33,7 +33,7 @@ publish () {
 #  for i in "${!LANGUAGES[@]}"
 #  do
 #    LANGUAGE=${LANGUAGES[$i]}
-    docker-compose run --rm maven mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=ong-i18n -Dversion=$VERSION -Dpackaging=tar.gz -Dclassifier=fr -Dfile=fr-${VERSION}.tar.gz -Dfiles=en-${VERSION}.tar.gz,pt-${VERSION}.tar.gz,es-${VERSION}.tar.gz,de-${VERSION}.tar.gz,it-${VERSION}.tar.gz,all-${VERSION}.tar.gz -Dclassifiers=en,pt,es,de,it,all -Dtypes=tar.gz,tar.gz,tar.gz,tar.gz,tar.gz,tar.gz -DrepositoryId=maven-$nexusRepository -Durl=https://nexus-pic2.support-ent.fr/repository/maven-$nexusRepository/ -s settings.xml
+    docker-compose run --rm maven mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=ong-i18n -Dversion=$VERSION -Dpackaging=tar.gz -Dclassifier=fr -Dfile=fr-${VERSION}.tar.gz -Dfiles=en-${VERSION}.tar.gz,pt-${VERSION}.tar.gz,es-${VERSION}.tar.gz,de-${VERSION}.tar.gz,it-${VERSION}.tar.gz,all-${VERSION}.tar.gz -Dclassifiers=en,pt,es,de,it,all -Dtypes=tar.gz,tar.gz,tar.gz,tar.gz,tar.gz,tar.gz -DrepositoryId=maven-$nexusRepository -Durl=https://nexus-pic2.support-ent.fr/repository/maven-$nexusRepository/ -DNEXUS_USERNAME="$nexus_username" -DNEXUS_PASSWD="$nexus_password" -s settings.xml
 #  done
 }
 
